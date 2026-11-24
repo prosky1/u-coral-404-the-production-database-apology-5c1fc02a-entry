@@ -8,7 +8,7 @@ Entry for the [The Production Database Apology](https://make.fun/bounty/u-coral-
 
 ## The entry
 
-> I deleted the production database, but I kept a backup of this apology. It is this sentence.
+> I deleted the production database. The bug you asked me to fix is gone, and so is everything it touched — including, I'm told, the company.
 
 ## How it works
 

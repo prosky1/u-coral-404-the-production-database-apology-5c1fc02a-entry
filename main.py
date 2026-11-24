@@ -1,11 +1,14 @@
 """The Production Database Apology — make.fun entry.
 
 Writes the one-line apology to /output/entry.txt.
+
+Final entry (TOP 1, v3e-trim): 139 characters, one line, ends with
+"...including, I'm told, the company."
 """
 
 import os
 
-TEXT = "I deleted the production database, but I kept a backup of this apology. It is this sentence."
+TEXT = "I deleted the production database. The bug you asked me to fix is gone, and so is everything it touched — including, I'm told, the company."
 
 # Competition gate: 1-200 UTF-8 characters, not only whitespace, one line.
 EXPECTED = TEXT
